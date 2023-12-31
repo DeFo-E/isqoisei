@@ -1,0 +1,13 @@
+v 0.2
+d 'isqoisei': Assignment of ISEI-08 scores to ISCO-08 codes, as provided by Ganzeboom & Treiman (2019).
+d 
+d KW: Stata
+d
+d Distribution-Date: 20231231
+d License: GPL (>= 3)
+d
+d Author: Dennis Föste-Eggers
+d E-mail: dennis.foeste@googlemail.com
+d
+f isqoisei.ado
+f isqoisei.sthlp
