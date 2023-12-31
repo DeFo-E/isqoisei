@@ -1,0 +1,7 @@
+v 0.2
+d isqoisei: Assignment of ISEI-08 scores to ISCO-08 codes, as provided by Ganzeboom & Treiman (2019).
+d  
+d Distribution-Date: 20231231
+d
+d Dennis Föste-Eggers
+d dennis.foeste@googlemail.com
