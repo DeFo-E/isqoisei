@@ -1,23 +1,23 @@
 
 *
-*!!! REFERENCE(S):
-*!!!
-*!!! Ganzeboom, Harry B.G.; Treiman, Donald J. (2019): 
-*!!!	International Stratification and Mobility File: Conversion Tools. Amsterdam: 
-*!!! 	Department of Social Research Methodology, 
-*!!!	http://www.harryganzeboom.nl/ismf/index.htm. <last revised: 2019-10-05>.
+* REFERENCE(S):
+*
+* Ganzeboom, Harry B.G.; Treiman, Donald J. (2019): 
+*	International Stratification and Mobility File: Conversion Tools. Amsterdam: 
+* 	Department of Social Research Methodology, 
+*	http://www.harryganzeboom.nl/ismf/index.htm. <last revised: 2019-10-05>.
 *
 
 *******************************************************************************************
-*  Version 0.2: 2020-07-01
+*!  Version 0.2: 2020-07-01
 *******************************************************************************************
-*  Dennis Föste-Eggers	
+*!  Dennis Föste-Eggers	
 *
 *  German Centre for Higher Education Research and Science Studies (DZHW)
 *  Lange Laube 12, 30159 Hannover         
 *  Phone: +49-(0)511 450 670-114		
-*  E-Mail (1): foeste-eggers@dzhw.eu  	
-*  E-Mail (2): dennis.foeste@gmx.de
+*  E-Mail (1): dennis.foeste@googlemail.com	
+*  E-Mail (2): foeste-eggers@dzhw.eu  
 *
 *******************************************************************************************
 *  Program name: isqoisei.ado     
@@ -50,21 +50,21 @@
 *  Citation: This code is © D. Foeste-Eggers, 2020, and it is made 
 *				 available under the GPL license enclosed with the software.
 *
-*!			Over and above the legal restrictions imposed by this license, if you use this 	!
-*! 			program for any (academic) publication then you are obliged to provide proper 	!
-*!			attribution. 																	!
+*			Over and above the legal restrictions imposed by this license, if you use this 	!
+* 			program for any (academic) publication then you are obliged to provide proper 	!
+*			attribution. 																	!
 *
-*   D. Foeste-Eggers isqoisei.ado for Stata, v0.2 (2020). 
-*			[weblink].
+*!   D. Foeste-Eggers isqoisei.ado for Stata, v0.2 (2020). 
+*!			https://github.com/DeFo-E/isqoisei/.
 *
 *******************************************************************************************
-*
-*!!! REFERENCE(S):
-*!!!
-*!!! Ganzeboom, Harry B.G.; Treiman, Donald J. (2019): 
-*!!!	International Stratification and Mobility File: Conversion Tools. Amsterdam: 
-*!!! 	Department of Social Research Methodology. 
-*!!!	http://www.harryganzeboom.nl/ismf/index.htm. <last revised: 2019-10-05>.
+*!
+*! REFERENCE(S):
+*!
+*! Ganzeboom, Harry B.G.; Treiman, Donald J. (2019): 
+*!	International Stratification and Mobility File: Conversion Tools. Amsterdam: 
+*! 	Department of Social Research Methodology. 
+*!	http://www.harryganzeboom.nl/ismf/index.htm. <last revised: 2019-10-05>.
 
 *tempname temp_global
 
